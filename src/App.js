@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is Changed React
+          This is React project
         </a>
       </header>
     </div>
